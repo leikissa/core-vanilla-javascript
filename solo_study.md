@@ -1,4 +1,5 @@
 # Core Vanilla JavaScript - Solo Study
+// Adding random comment to fix git stuff
 
 A day-by-day structured deep dive into the basics JavaScript. Read articles, watch videos, complete lessons and exercises, and implement a final project.
 
